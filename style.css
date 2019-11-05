@@ -1,3 +1,31 @@
-div{
-    color:blue;
+.mainbody{
+    background-color:lightsalmon;
+    height:750px;
+    position:relative;
+    border:10px double lightskyblue;
+}
+
+#evilcat{
+    border-radius:25%;
+    position:absolute;
+    top:0;
+    bottom:0;
+    right:0;
+    left:0;
+
+    margin:auto;
+}
+
+.description{
+    background-color:lightgray;
+    color:orangered;
+    position:absolute;
+    bottom:0;
+    margin:auto;
+    
+}
+
+header{
+    text-align:center;
+    background-color:lightpink;
 }
